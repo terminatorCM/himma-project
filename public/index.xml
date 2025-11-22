@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/book_content/muslim_manners/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/book_content/muslim_manners/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/</guid>
+      <description>&lt;p&gt;ashfoudahoif&#xA;asjdggiuadg&amp;rsquo;&#xA;aughfoua&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/book_content/muslim_manners/p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/book_content/muslim_manners/p2/</guid>
+      <description>&lt;p&gt;middle&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/book_content/muslim_manners/%D8%A7%D9%84%D8%AE%D8%A7%D8%AA%D9%85%D8%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/book_content/muslim_manners/%D8%A7%D9%84%D8%AE%D8%A7%D8%AA%D9%85%D8%A9/</guid>
+      <description>&lt;p&gt;end&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/book_content/book2/ohio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/book_content/book2/ohio/</guid>
+      <description>&lt;p&gt;i love skibidi&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
